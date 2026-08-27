@@ -1,6 +1,6 @@
 {
-  "name": "@workspace/bot-rwa-valuator",
-  "version": "0.0.0",
+  "name": "bot-rwa-valuator",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,6 +13,6 @@
     "viem": "^2.33.0"
   },
   "devDependencies": {
-    "vite": "catalog:"
+    "vite": "^7.1.3"
   }
 }
